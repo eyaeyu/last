@@ -1,4 +1,11 @@
 public class assi {
+    void eyob(){
+        system.out.println("eyob chiksa");
+        system.out.println("0489/13");
+        system.out.println("software engineer");
+        system.out.println("debre brehan university");
+
+    }
     
 }
 class call{
