@@ -6,6 +6,13 @@ public class assi {
         system.out.println("debre brehan university");
 
     }
+    void eyob(){
+        system.out.println("fasiledes shimelis");
+        system.out.println("0105/13");
+        system.out.println("software engineer");
+        system.out.println("debre brehan university");
+
+    }
     
 }
 class call{
