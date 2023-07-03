@@ -6,11 +6,19 @@ public class assi {
         system.out.println("debre brehan university");
 
     }
-    void eyob(){
+
+    void fasil(){
         system.out.println("fasiledes shimelis");
         system.out.println("0105/13");
         system.out.println("software engineer");
         system.out.println("debre brehan university");
+
+void fasika(){
+        system.out.println("fasika kassahun");
+        system.out.println("4100/13");
+        system.out.println("software engineer");
+        system.out.println("and also web developer");
+
 
     }
     
