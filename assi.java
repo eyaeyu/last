@@ -31,6 +31,14 @@ void fasika(){
 
 
     }
+void ferdu(){
+            String id="DBUR/1510/13";
+            System.out.println("-------------------------------------------------------------");
+            System.out.println("Hello this is ferdu :"+ id); 
+            system.out.println("software engineer");
+             
+            System.out.println();
+           
 
     void eyerus(){
         system.out.println("Eyerusalem Fikadu");
