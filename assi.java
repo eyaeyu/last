@@ -22,6 +22,12 @@ public class assi {
         system.out.println("software engineer");
         system.out.println("debre brehan university");
     }
+    void khadar(){
+        system.out.println("khadar mohamed");
+        system.out.println("3689/13");
+        system.out.println("software engineer");
+        system.out.println("debre brehan university");
+    }
 
 void fasika(){
         system.out.println("fasika kassahun");
@@ -64,7 +70,7 @@ class call{
         s.hareg();
         s.hassen();
         s.eyerus();
-        s.khader();
+        s.khadar();
         s.ferdu();
         s.fasika();
         s.fasil();
