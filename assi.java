@@ -19,6 +19,7 @@ public class assi {
         system.out.println("0105/13");
         system.out.println("software engineer");
         system.out.println("debre brehan university");
+    }
 
 void fasika(){
         system.out.println("fasika kassahun");
@@ -26,6 +27,13 @@ void fasika(){
         system.out.println("software engineer");
         system.out.println("and also web developer");
 
+
+    }
+     void hareg(){
+        system.out.println("Yewoynhareg mulugeta");
+        system.out.println("0035/13");
+        system.out.println("software engineer");
+        
 
     }
     
