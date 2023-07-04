@@ -6,13 +6,6 @@ public class assi {
         system.out.println("debre brehan university");
 
     }
- void eyerus(){
-        system.out.println("eyerusalem fikadu");
-        system.out.println("0395/13");
-        system.out.println("software engineer");
-        system.out.println("and also graphical designer");
-
-    }
 
     void fasil(){
         system.out.println("fasiledes shimelis");
@@ -29,6 +22,15 @@ void fasika(){
 
 
     }
+
+    void eyerus(){
+        system.out.println("Eyerusalem Fikadu");
+        system.out.println("0395/13");
+        system.out.println("software engineer");
+        system.out.println("Modelist");
+
+    }
+
      void hareg(){
         system.out.println("Yewoynhareg mulugeta");
         system.out.println("0035/13");
