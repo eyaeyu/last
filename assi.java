@@ -6,6 +6,15 @@ public class assi {
         system.out.println("debre brehan university");
 
     }
+    //hassen's method goese here
+     void hassen(){
+            String id="DBUR/0280/13";
+            System.out.println("-------------------------------------------------------------");
+             System.out.println();
+            System.out.println("Hello this is Hassen with id :"+ id);  
+            System.out.println();
+            System.out.println("-------------------------------------------------------------");
+        }
 
     void fasil(){
         system.out.println("fasiledes shimelis");
